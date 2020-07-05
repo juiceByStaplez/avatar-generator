@@ -1,0 +1,10 @@
+{
+  "name": "ani.me",
+  "version": "1.0.0",
+  "description": "Avatar generator",
+  "main": "public/js/index.js",
+  "repository": "https://github.com/juiceByStaplez/avatar-generator",
+  "author": "Matthew McKey",
+  "license": "MIT",
+  "private": true
+}
